@@ -4,19 +4,19 @@
 `WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/fediverse-relays). Please, send your MRs there. PRs here won't be merged.
 
 #### [diaspora protocol](#diaspora-protocol)
-* https://relay.iliketoast.net
+* [relay.iliketoast.net](https://relay.iliketoast.net)
 
 #### [ActivityPub protocol](#activitypub-protocol)
 * [Mastodon relay](https://source.joinmastodon.org/mastodon/pub-relay)
 * [Pleroma relay](https://git.pleroma.social/pleroma/relay)
 
 #### Known Activity relays
-* https://relay.mastodon.host
-* https://relay.kitsunet.net
-* https://relay.pleroma.site
-* https://relay1.mastodonsocial.ru
-* https://relay2.mastodonsocial.ru
-* https://relay3.mastodonsocial.ru
+* [relay.mastodon.host](https://relay.mastodon.host)
+* [relay.kitsunet.net](https://relay.kitsunet.net)
+* [relay.pleroma.site](https://relay.pleroma.site)
+* [relay1.mastodonsocial.ru](https://relay1.mastodonsocial.ru)
+* [relay2.mastodonsocial.ru](https://relay2.mastodonsocial.ru)
+* [relay3.mastodonsocial.ru](https://relay3.mastodonsocial.ru)
 
 **HowTo**: [EN](https://pleroma.site/objects/d1467990-9e4a-47cd-a43a-376377b2a009) / [RU](https://mastodonsocial.ru/@rf/101092489454309134)
 
