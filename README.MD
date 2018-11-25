@@ -5,6 +5,7 @@
 
 #### [diaspora protocol](#diaspora-protocol)
 * [relay.iliketoast.net](https://relay.iliketoast.net)
+* [relay.diasp.org](https://relay.diasp.org/)
 
 #### [ActivityPub protocol](#activitypub-protocol)
 * [Mastodon relay](https://source.joinmastodon.org/mastodon/pub-relay)
