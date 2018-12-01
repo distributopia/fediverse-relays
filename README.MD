@@ -3,6 +3,8 @@
 
 `WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/fediverse-relays). Please, send your MRs there. PRs here won't be merged.
 
+`WARNING`: for up-to-date, automatically gathered, relays go to [activity relay](https://fediverse.network/activityrelay).
+
 #### [diaspora protocol](#diaspora-protocol)
 * [relay.iliketoast.net](https://relay.iliketoast.net)
 
@@ -18,6 +20,9 @@
 * [relay2.mastodonsocial.ru](https://relay2.mastodonsocial.ru)
 * [relay3.mastodonsocial.ru](https://relay3.mastodonsocial.ru)
 * [relay.photog.social](https://relay.photog.social)
+* [yiff.social](https://yiff.social)
+* [relay.comm.cx](https://relay.comm.cx)
+* [relay.monsterpit.net](https://relay.monsterpit.net)
 
 **HowTo**: [EN](https://pleroma.site/objects/d1467990-9e4a-47cd-a43a-376377b2a009) / [RU](https://mastodonsocial.ru/@rf/101092489454309134)
 
