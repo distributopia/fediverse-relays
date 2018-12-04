@@ -23,6 +23,7 @@
 * [yiff.social](https://yiff.social)
 * [relay.comm.cx](https://relay.comm.cx)
 * [relay.monsterpit.net](https://relay.monsterpit.net)
+* [relay.homunyan.com](https://relay.homunyan.com)
 
 **HowTo**: [EN](https://pleroma.site/objects/d1467990-9e4a-47cd-a43a-376377b2a009) / [RU](https://mastodonsocial.ru/@rf/101092489454309134)
 
