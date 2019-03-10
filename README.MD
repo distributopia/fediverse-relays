@@ -3,28 +3,24 @@
 
 `WARNING`: This is a __mirror repo__ from [GitLab](https://gitlab.com/distributopia/fediverse-relays). Please, send your MRs there. PRs here won't be merged.
 
-`WARNING`: for up-to-date, automatically gathered, relays go to [activity relay](https://fediverse.network/activityrelay).
+### [diaspora protocol](#diaspora-protocol)
 
-#### [diaspora protocol](#diaspora-protocol)
-* [relay.iliketoast.net](https://relay.iliketoast.net)
-* [relay.diasp.org](https://relay.diasp.org/)
+#### Social relay
+* [Source code](https://github.com/jaywink/social-relay)
+* [List of relays](https://the-federation.info/social-relay)
 
-#### [ActivityPub protocol](#activitypub-protocol)
-* [Mastodon relay](https://source.joinmastodon.org/mastodon/pub-relay)
-* [Pleroma relay](https://git.pleroma.social/pleroma/relay)
+### [ActivityPub protocol](#activitypub-protocol)
 
-#### Known Activity relays
-* [relay.mastodon.host](https://relay.mastodon.host)
-* [relay.kitsunet.net](https://relay.kitsunet.net)
-* [relay.pleroma.site](https://relay.pleroma.site)
-* [relay1.mastodonsocial.ru](https://relay1.mastodonsocial.ru)
-* [relay2.mastodonsocial.ru](https://relay2.mastodonsocial.ru)
-* [relay3.mastodonsocial.ru](https://relay3.mastodonsocial.ru)
-* [relay.photog.social](https://relay.photog.social)
-* [yiff.social](https://yiff.social)
-* [relay.comm.cx](https://relay.comm.cx)
-* [relay.monsterpit.net](https://relay.monsterpit.net)
-* [relay.homunyan.com](https://relay.homunyan.com)
+#### Pub relay
+* [Source code](https://source.joinmastodon.org/mastodon/pub-relay)
+
+#### Activity relay
+* [Source code](https://git.pleroma.social/pleroma/relay)
+* [List of relays](https://fediverse.network/activityrelay)
+
+#### Seattle relay
+* [Source code](gitlab.com/jankysolutions/social.seattle.wa.us/relay)
+* [List of relays](fediverse.network/social.seattle.wa.us-relay)
 
 **HowTo**: [EN](https://pleroma.site/objects/d1467990-9e4a-47cd-a43a-376377b2a009) / [RU](https://mastodonsocial.ru/@rf/101092489454309134)
 
