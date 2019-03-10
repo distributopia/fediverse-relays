@@ -19,8 +19,8 @@
 * [List of relays](https://fediverse.network/activityrelay)
 
 #### Seattle relay
-* [Source code](gitlab.com/jankysolutions/social.seattle.wa.us/relay)
-* [List of relays](fediverse.network/social.seattle.wa.us-relay)
+* [Source code](https://gitlab.com/jankysolutions/social.seattle.wa.us/relay)
+* [List of relays](https://fediverse.network/social.seattle.wa.us-relay)
 
 **HowTo**: [EN](https://pleroma.site/objects/d1467990-9e4a-47cd-a43a-376377b2a009) / [RU](https://mastodonsocial.ru/@rf/101092489454309134)
 
